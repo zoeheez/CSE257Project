@@ -1,4 +1,8 @@
+This is a CSE257 project that modifies the following package:
+
+
 # PsyTrack_Learning
+
 
 PsyTrack_Learning is an extension of the PsyTrack Python package, originally designed for fitting a dynamic psychophysical model to behavioral data as proposed in our 2018 NeurIPS paper, '[Efficient inference for time-varying behavior during learning](http://pillowlab.princeton.edu/pubs/Roy18_NeurIPS_dynamicPsychophys.pdf).' PsyTrack_Learning extends this model to include a deterministic learning component to the model. The model is presented and described in detail in our 2020 NeurIPS paper, '[Inferring learning rules from animal decision-making](https://papers.nips.cc/paper/2020/hash/234b941e88b755b7a72a1c1dd5022f30-Abstract.html).'
 
